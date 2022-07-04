@@ -6,3 +6,5 @@ Le projet est réalisé en équipe avec:
 - Kirac Axel
 - Denis Anthony
 - Vanvolcksom Doriano
+
+![fun](https://thumbs.gfycat.com/AdeptGlamorousBasenji-size_restricted.gif)
