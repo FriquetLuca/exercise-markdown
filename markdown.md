@@ -25,8 +25,6 @@ On peut cités quelques exemples de l'utilisation de **markdown** et ce qui est 
     - ...
 - Etc...
 
-> Pour le retour au README, cliquez [ici](https://github.com/FriquetLuca/exercise-markdown/blob/master/README.md).
-
 ## Les balises
 
 ### Titre
@@ -193,18 +191,4 @@ echo "hello world";
 ```
 :thinking:
 
-### Note
-```
-[^1]: Ref.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
-```
-[^1]: Ref.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
+> Pour le retour au README, cliquez [ici](https://github.com/FriquetLuca/exercise-markdown/blob/master/README.md).
